@@ -1,1 +1,1 @@
-{botID: "aerobot-staging", states:[{id:1, name: 'greeting'}]}
+{botID: "aerobot-staging", states:[{id:1, name: 'greeting'}, {id: 2, name: 'default'}]}
