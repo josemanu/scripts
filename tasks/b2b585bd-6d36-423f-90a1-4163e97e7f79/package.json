@@ -1,0 +1,11 @@
+{
+  "name": "task1",
+  "version": "1.0.0",
+  "description": "First task created with platform-tasks service",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Jose De Paz",
+  "license": "MIT"
+}
